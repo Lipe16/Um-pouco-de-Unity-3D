@@ -1,0 +1,12 @@
+# Introducao-a-Unity3D
+Projeto de um jogo sendo desenvolvido com Unity+C#
+
+Mover arquivos de projetos da unity é um pouco complicado, pois mesma tem a possibilidade de setar objetos do cenário arrastando ele para o escript e isso é muito bom porém as variáveis que recebem objetos desta forma  tendem a perde referência a eles... Para corrigir isso vou fazer um documentação mais completa deste projeto para que outras pessoas aprendam a monta-lo no seu cenário Unity.
+
+Para quem já conhece a plataforma e está abituado, fique avontade a explorar os arquivos, tem vária funções como: abrir portas, portas com painel eletronico, inventário, lanterna...
+
+      Imagem 01
+![personagem](https://lh3.googleusercontent.com/I7awNPu6xHD_2s_JmId4Ye8uaNOS6XjC_J-Sb8udi0_3UBEJzV_NL--UIK0oCnn2htqRCraNrVegWUOqm-w7CUBGqfvY0dIDVAscogr21h-ymiTqQnfdaeQ6oiQk_gza7Q0k6gGLJegwcLtGyvpYcIaAfJy3KGtvD--c8tYyUYS_FY-hO-mKoAdzWu5SBwVLmx8goUPId7VFWCZoLVDCT1yCFEIlvOZo6Gdm1W5OG-JEnt9XAurGKMikkBokMLheLxD3K3MnASLUZEGt1NjIdH9N0uih8wda9sYmcwnk1AA9ISnQiaihGzR7TZS1PcOuC-EMP2B89PyMJWRCPvY33kqyNnInA74FZZZz365gAJ38e1Og01f2ZUNAEqUKI66V26YicMHvigptVvhy1TEoOtHCDpRKOwHlbyleI6lILkQUDQ_qVfBnOFuIngSvcfX-EY-8dBlhUimLyZGkLhQC0rC4pRFZFye6ID-42L4hQzYL2Alpm3tyFZR7TcPQGJBEqO7pq9x7EChfsTaZMZSlAJ6QapYraVy532wjyGuhueEtwjVpgKHD7Swf5iBQXcEZxrXyh4Af23tTBN6u3ol0WvBF5C8AJojal6Vdf2I=w1688-h949-no)
+
+      Imagem02
+![personagem + criatura](https://lh3.googleusercontent.com/YAB1j3IF_0tJVM48VYYcl0awOHtUj-ZFqLs1Wky5Pap8ARXTqeKYzn8UnB1ee23zVL5u4LhFBjt3TqJQtWs147zH5GdjFWJBDW99ok4RbbtPVW_jk513iy-X5GeiVr1f9gPLXTyHr071j_b9LB5y1W3Up4Gt7DcaH3sS_jJEBw9igmPMe_O23i7TWalmIHUyW42C1ROqh3m7eVcxQPrtNVhuv4WqQuP3s2WpAt8H2CCze-CELTDIKOlb-_yJGjV02VWoKl5YN6O-3fBRMe-DAjC1V33qUuEcERgXNhUHnesoz7jfGDLtkyozUrzm714BUdIDP9R5-Fy7EKC1Uo871zJDthztPHvdIxNEBnG7Mbk9RYXgReblynNOLHDPXE8W_9OBWAeuY6hx7ocyjstsiqx6ZNZBtYOZ0TDMkSIIAcMwqmlrWyR3kejGxKj8He_j0dtg2IaArrQJd6XyyKqe_omrYyyHADmj6yI_K9vugUWdp1Td7raI0Omm9sRcECzaQ_waTbxjYQnI57ZUEujQtvcHHcKSvd--QufzlqkIY1csbl-9xPlh7cj2gcNGbDOYzF-RWg5bYnBagyn5DfX6nwrgfWryR2FrfH51Lvk=w1688-h949-no)
